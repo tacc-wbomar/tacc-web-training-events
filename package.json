@@ -1,0 +1,28 @@
+{
+  "name": "tacc-web-jobs-page",
+  "version": "1.0.0",
+  "description": "A utility to create markup for Jobs pages based on flatfile data",
+  "main": "index.js",
+  "devDependencies": {
+    "mustache": "^3.2.0",
+    "nps": "^5.9.12",
+    "remark": "^11.0.2",
+    "remark-html": "^10.0.0",
+    "shx": "^0.3.2",
+    "yamljs": "^0.3.0"
+  },
+  "// scripts": {
+    "start": "Allows running `scripts` via `nps …` from `package-scripts.yml`",
+    "prebuild": "Delete then create output directory",
+    "build": "Build temporary partial templates, then build final markup",
+    "postbuild": "Export final markup file, then run cleanup tasks"
+  },
+  "scripts": {
+    "start": "nps",
+    "prebuild": "nps setup",
+    "build": "nps build",
+    "postbuild": "nps clean report"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {}
+}

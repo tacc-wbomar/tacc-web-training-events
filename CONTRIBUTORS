@@ -1,0 +1,2 @@
+# Each line must have the format "Name <email> (url)", where email and url are optional. Lines which start with a # or are blank, will be ignored.
+# SEE: https://docs.npmjs.com/files/package.json#default-values

@@ -1,0 +1,25 @@
+scripts:
+  # Delete then create output directory
+  setup: shx rm -rf ./dist && shx mkdir -p ./dist
+
+  # Build temporary partial templates, then build final markup
+  build: nps build:data build:markup
+
+  # Build temporary data from source data
+    # FAQ:     Prefix temporary partials with underscore, to identify them
+    #          as temporary (also, add underscore pattern to `.gitignore`)
+    # Via yaml.js (`yaml2json`) convert data from `.yaml` to `.json`
+  build:data: yaml2json --pretty ./assets/data.yaml > ./assets/_data.json
+
+  # Build final markup
+    # Apply data into template, then ouput to… (`….json ….mustache >`)
+    # Final markup file (`….html`)
+  build:markup: mustache
+    ./bin/markdown-to-html.js ./templates/index.mustache >
+    ./dist/output.html
+
+  # Tell user what to do (after task is complete)
+  report: echo "Use relevant markup from './dist/output.html'"
+
+  # Delete temporary files
+  clean: shx rm ./assets/_*.*
