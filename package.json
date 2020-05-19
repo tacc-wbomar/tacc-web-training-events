@@ -1,8 +1,11 @@
 {
-  "name": "tacc-web-jobs-page",
+  "name": "tacc-web-training-events",
   "version": "1.0.0",
-  "description": "A utility to create markup for Jobs pages based on flatfile data",
+  "description": "A utility to create markup for Training & Events blurb on Home page based on flatfile data",
   "main": "index.js",
+  "// devDependencies": {
+    "remark(-*)": "WARNING: Unused-ish; see `/training-events/bin/markdown-to-html.js`"
+  },
   "devDependencies": {
     "mustache": "^3.2.0",
     "nps": "^5.9.12",
