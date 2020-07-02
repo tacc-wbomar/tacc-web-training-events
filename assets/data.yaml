@@ -1,5 +1,21 @@
 entries:
 - title: "<strong>Computational Research Techniques:</strong><br />
+        \t\t\t\tScientific Visualization"
+  url: 
+      webpage: https://www.tacc.utexas.edu/education/institutes/scientific-visualization
+      image: /documents/1084364/1825988/scientific+vizualization.jpg
+  extra: 
+  date: June 30 & July 7, 14, 21
+  location: 
+- title: "<strong>Computational Research Techniques:</strong><br />
+        \t\t\t\tReproducible Science"
+  url: 
+      webpage: https://www.tacc.utexas.edu/education/institutes/reproducible-science
+      image: /documents/1084364/1825988/reproducible-science.jpg
+  extra: 
+  date: July 1, 8, 15, 22
+  location: 
+- title: "<strong>Computational Research Techniques:</strong><br />
         \t\t\t\tApplied Parallel Programming"
   url: 
       webpage: https://www.tacc.utexas.edu/education/institutes/applied-parallel-programming
@@ -7,11 +23,11 @@ entries:
   extra: 
   date: July 2, 9, 16, 23
   location: 
-- title: "<strong>Computational Research Techniques:</strong><br />
-        \t\t\t\tScientific Visualization"
+- title: "<strong>Machine Learning</strong><br />
+        \t\t\t\t(in cooperation w/ Intel)"
   url: 
-      webpage: https://www.tacc.utexas.edu/education/institutes/scientific-visualization
-      image: /documents/1084364/1825988/scientific+vizualization.jpg
+      webpage: https://www.tacc.utexas.edu/education/institutes/machine-learning
+      image: /documents/1084364/1825988/machine-learning-with-intel.jpg
   extra: 
-  date: June 30 & July 7, 14, 21
+  date: August 10–14
   location: 
