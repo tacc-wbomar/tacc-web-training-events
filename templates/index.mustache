@@ -1,14 +1,12 @@
 <h2 id="training-events">
 	Training &amp; Events</h2>
-<br />
 {{#entries}}
 <div class="row">
 	<div class="col-xs-3">
-		<a href="{{{url.webpage}}}" style="margin-bottom:10px;" /><img class="img-responsive" src="{{{url.image}}}" style="margin-bottom:10px;" /></a></div>
+		<a href="{{{url.webpage}}}" style="margin-bottom:10px;"{{#url.external}} target="_blank"{{/url.external}}><img class="img-responsive" src="{{{url.image}}}" style="margin-bottom:10px;" /></a></div>
 	<div class="col-xs-9">
 		<p>
-			<a href="{{{url.webpage}}}" target="_blank">
-				{{{title}}}</a>{{#extra}}<br />
+			<a href="{{{url.webpage}}}"{{#url.external}} target="_blank"{{/url.external}}>{{{title}}}</a>{{#extra}}<br />
 				{{extra}}{{/extra}}{{#date}}<br />
 				{{date}}{{/date}}{{#location}}<br />
 				{{location}}{{/location}}</p>

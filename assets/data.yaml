@@ -1,33 +1,17 @@
 entries:
-- title: "<strong>Computational Research Techniques:</strong><br />
-        \t\t\t\tScientific Visualization"
+- title: "<strong>TACCSTER 2020: TACC Symposium for Texas Researchers</strong>"
   url: 
-      webpage: https://www.tacc.utexas.edu/education/institutes/scientific-visualization
-      image: /documents/1084364/1825988/scientific+vizualization.jpg
+      webpage: /web/website/taccster
+      image: /documents/1084364/1825988/homepageNews-taccster.jpg/
+      external: false
   extra: 
-  date: June 30 & July 7, 14, 21
+  date: September 17, 2020 – September 18, 2020
   location: 
-- title: "<strong>Computational Research Techniques:</strong><br />
-        \t\t\t\tReproducible Science"
+- title: "<strong>Leadership Resource Allocation (LRAC) Annual Allocation Submission</strong>"
   url: 
-      webpage: https://www.tacc.utexas.edu/education/institutes/reproducible-science
-      image: /documents/1084364/1825988/reproducible-science.jpg
+      webpage: https://frontera-portal.tacc.utexas.edu/allocations/
+      image: /documents/1084364/1825988/-allocations.jpg/
+      external: true
   extra: 
-  date: July 1, 8, 15, 22
-  location: 
-- title: "<strong>Computational Research Techniques:</strong><br />
-        \t\t\t\tApplied Parallel Programming"
-  url: 
-      webpage: https://www.tacc.utexas.edu/education/institutes/applied-parallel-programming
-      image: /documents/1084364/1825988/applied-parallel-programming.jpg
-  extra: 
-  date: July 2, 9, 16, 23
-  location: 
-- title: "<strong>Machine Learning</strong><br />
-        \t\t\t\t(in cooperation w/ Intel)"
-  url: 
-      webpage: https://www.tacc.utexas.edu/education/institutes/machine-learning
-      image: /documents/1084364/1825988/machine-learning-with-intel.jpg
-  extra: 
-  date: August 10–14
+  date: December 14, 2020 – January 15, 2021
   location: 
