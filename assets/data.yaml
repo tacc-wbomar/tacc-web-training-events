@@ -1,41 +1,33 @@
 entries:
-- title: "<strong>TACCSTER 2020: TACC Symposium for Texas Researchers</strong>"
-  url: 
-      webpage: /web/website/taccster
-      image: /documents/1084364/1825988/homepageNews-taccster.jpg/
-      external: false
-  extra: 
-  date: September 17, 2020 – September 18, 2020
-  location: 
-- title: "<strong>High Performance Computing on Frontera Training Series: October 2020</strong><br />Focus on MPI, Hybrid Computing"
-  url: 
-      webpage: https://learn.tacc.utexas.edu/course/view.php?id=94
-      image: /documents/1084364/1825988/frontera.jpg
-      external: true
-  extra: 
-  date: October 15, 2020
-  location: 
-- title: "<strong>High Performance Computing on Frontera Training Series: October 2020</strong><br />Focus on MPI, Hybrid Computing"
-  url: 
-      webpage: https://learn.tacc.utexas.edu/course/view.php?id=97
-      image: /documents/1084364/1825988/frontera.jpg
-      external: true
-  extra: 
-  date: October 22, 2020
-  location: 
-- title: "<strong>High Performance Computing on Frontera Training Series: October 2020</strong><br />Focus on Parallel I/O, HPC Tools, Debugging, Profiling, and Best Practices"
-  url: 
-      webpage: https://learn.tacc.utexas.edu/course/view.php?id=95
-      image: /documents/1084364/1825988/frontera.jpg
-      external: true
-  extra: 
-  date: October 29, 2020
-  location: 
-- title: "<strong>Leadership Resource Allocation (LRAC) Annual Allocation Submission</strong>"
-  url: 
-      webpage: https://frontera-portal.tacc.utexas.edu/allocations/
-      image: /documents/1084364/1825988/-allocations.jpg/
-      external: true
-  extra: 
-  date: December 14, 2020 – January 15, 2021
-  location: 
+  - title: "<strong>High Performance Computing on Frontera Training Series: October 2020</strong><br />Focus on MPI, Hybrid Computing"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/course/view.php?id=94
+        image: /documents/1084364/1825988/frontera.jpg
+        external: true
+    extra: 
+    date: October 15, 2020
+    location: 
+  - title: "<strong>High Performance Computing on Frontera Training Series: October 2020</strong><br />Focus on MPI, Hybrid Computing"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/course/view.php?id=97
+        image: /documents/1084364/1825988/frontera.jpg
+        external: true
+    extra: 
+    date: October 22, 2020
+    location: 
+  - title: "<strong>High Performance Computing on Frontera Training Series: October 2020</strong><br />Focus on Parallel I/O, HPC Tools, Debugging, Profiling, and Best Practices"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/course/view.php?id=95
+        image: /documents/1084364/1825988/frontera.jpg
+        external: true
+    extra: 
+    date: October 29, 2020
+    location: 
+  - title: "<strong>Leadership Resource Allocation (LRAC) Annual Allocation Submission</strong>"
+    url: 
+        webpage: https://frontera-portal.tacc.utexas.edu/allocations/
+        image: /documents/1084364/1825988/-allocations.jpg/
+        external: true
+    extra: 
+    date: December 14, 2020 – January 15, 2021
+    location: 
