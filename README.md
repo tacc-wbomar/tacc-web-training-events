@@ -14,3 +14,7 @@ This project compiles data into templates to create markup for the body of the [
 3. Confirm output in:
     - `dist/`
 4. Use output.
+
+## Reference
+
+- [How To - Legacy TACC - Markup Generation Utility](https://confluence.tacc.utexas.edu/x/AYGDC)
