@@ -10,6 +10,8 @@
     "mustache": "^3.2.0",
     "nps": "^5.9.12",
     "shx": "^0.3.2",
+    "remark": "^11.0.2",
+    "remark-html": "^10.0.0",
     "yamljs": "^0.3.0"
   },
   "// scripts": {
