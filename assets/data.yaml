@@ -1,28 +1,4 @@
 entries:
-  - title: "Introduction to Machine Learning at TACC"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/mod/page/view.php?id=111
-        image: /documents/1084364/1825988/tacc.png
-        external: true
-    extra: 
-    date: February 2, 2021
-    location: 
-  - title: "Introduction to Deep learning at TACC"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/mod/page/view.php?id=112
-        image: /documents/1084364/1825988/tacc.png
-        external: true
-    extra: 
-    date: February 9, 2021
-    location: 
-  - title: "Introduction to Linux"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/mod/page/view.php?id=113
-        image: /documents/1084364/1825988/tacc.png
-        external: true
-    extra: 
-    date: February 10, 2021
-    location: 
   - title: "C++ for C Programmers"
     url: 
         webpage: https://learn.tacc.utexas.edu/mod/page/view.php?id=114
