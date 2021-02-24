@@ -1,12 +1,4 @@
 entries:
-  - title: "C++ for C Programmers"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/mod/page/view.php?id=114
-        image: /documents/1084364/1825988/c-plus-plus.png
-        external: true
-    extra: 
-    date: February 18, 2021
-    location: 
   - title: "MPL Object-Oriented Interface to MPI"
     url: 
         webpage: https://learn.tacc.utexas.edu/mod/page/view.php?id=115
@@ -14,4 +6,20 @@ entries:
         external: true
     extra: 
     date: February 25, 2021
+    location: 
+  - title: "Intro to Machine Learning Concepts, Tools, and Methods"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=99
+        image: /documents/1084364/1825988/tacc.png
+        external: true
+    extra: 
+    date: March 5, 2021
+    location: 
+  - title: "Intro to Deep Learning Concepts, Tools, and Methods"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=100
+        image: /documents/1084364/1825988/tacc.png
+        external: true
+    extra: 
+    date: March 12, 2021
     location: 
