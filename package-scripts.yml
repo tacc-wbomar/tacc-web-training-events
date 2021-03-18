@@ -14,7 +14,9 @@ scripts:
   # Build final markup
     # Apply data into template, then ouput to… (`….json ….mustache >`)
     # Final markup file (`….html`)
-  build:markup: mustache
+  build:markup: >-
+    mustache
+    -p ./templates/partials/styles.mustache
     ./bin/markdown-to-html.js ./templates/index.mustache >
     ./dist/output.html
 
