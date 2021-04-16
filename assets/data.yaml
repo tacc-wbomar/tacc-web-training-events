@@ -15,6 +15,14 @@ entries:
     extra: 
     date: June 24 – July 2, 2021
     location: 
+  - title: "<abbr title=\"Practice & Experience in Advanced Research Computing 2021 (Conference)\">PEARC21</abbr> Virtual Conference"
+    url: 
+        webpage: https://pearc.acm.org/pearc21/
+        image: /documents/1084364/1970021/pearc21.png
+        external: true
+    extra: 
+    date: July 19-22, 2021
+    location: 
   - title: "<abbr title=\"Supercomputing 2021 (Conference)\">SC2021</abbr>"
     url: 
         webpage: https://sc21.supercomputing.org/
