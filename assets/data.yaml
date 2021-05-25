@@ -1,19 +1,40 @@
 entries:
-  - title: "2021 Workshop on Shared Operational Research Logistics in the Nearshore Environment (SHORELINE21)"
+  - title: "Preparing Current and Future Domain Scientists for Advanced Computing - Register today!"
     url: 
-        webpage: https://www.designsafe-ci.org/learning-center/training/workshops/uf-ef/shoreline21/
+        webpage: https://www.dellhpc.org/event_5-19-2021.html/
+        image: /documents/1084364/1970021/dell.png
+        external: true
+    extra: 
+    date: May 19th
+    time: 10am CDT
+    location: 
+  - title: "High Performance Computing on Frontera"
+    url: 
+        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=106
+        image: /documents/1084364/1970021/frontera-welcome.png
+        external: true
+    extra: 
+    date: May 20th, 27th, June 3rd
+    time: 10am - 3:30pm CDT
+    location: 
+  - title: "2021 DesignSafe Academy"
+    url: 
+        webpage: https://www.designsafe-ci.org/learning-center/training/webinars/ds/2021/designsafe-academy/
         image: /documents/1084364/1694621/designsafe-events.jpg
         external: true
     extra: 
-    date: April 26–27, 2021
+    date: July 26th - 30th
+    time: 10am - 5pm CDT
     location: 
+  
   - title: "ISC High Performance 2021 Digital"
     url: 
         webpage: https://www.isc-hpc.com/
         image: /documents/1084364/1141713/homepageNews0.png
         external: true
     extra: 
-    date: June 24 – July 2, 2021
+    date: June 24th – July 2nd
+    time: 
     location: 
   - title: "<abbr title=\"Practice & Experience in Advanced Research Computing 2021 (Conference)\">PEARC21</abbr> Virtual Conference"
     url: 
@@ -21,7 +42,8 @@ entries:
         image: /documents/1084364/1970021/pearc21.png
         external: true
     extra: 
-    date: July 19-22, 2021
+    date: July 19th – 22nd
+    time: 
     location: 
   - title: "<abbr title=\"Supercomputing 2021 (Conference)\">SC2021</abbr>"
     url: 
@@ -29,5 +51,6 @@ entries:
         image: /documents/1084364/1970021/sc21.png
         external: true
     extra: 
-    date: November 14-19, 2021
+    date: November 14th – 19th
+    time: 
     location: 
