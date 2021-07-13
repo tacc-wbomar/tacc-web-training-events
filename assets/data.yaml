@@ -17,7 +17,7 @@ entries:
     date: July 26th - 30th
     time: 10am - 5pm CDT
     location: 
-  - title: "TACC Summer Institute: Computational Research Techniques: Parallel Programing"
+  - title: "TACC Summer Institute:<br />Computational Research Techniques: Parallel Programing"
     url: 
         webpage: /education/institutes/applied-parallel-programming
         image: /documents/1084364/1825988/applied-parallel-programming.jpg
@@ -26,7 +26,7 @@ entries:
     date: July 29th, August 12th, August 19th
     time: 
     location: 
-  - title: "TACC Summer Institute: Machine Learning"
+  - title: "TACC Summer Institute:<br />Machine Learning"
     url: 
         webpage: /education/institutes/machine-learning
         image: /documents/1084364/1825988/machine-learning-with-intel.jpg
@@ -35,7 +35,7 @@ entries:
     date: August 2nd – 6th
     time: 
     location:  
-  - title: "TACC Summer Institute: Marine Sciences Machine Learning Workshop"
+  - title: "TACC Summer Institute:<br />Marine Sciences Machine Learning Workshop"
     url: 
         webpage: /education/institutes/marine-sciences-ml-workshop
         image: /documents/1084364/1970021/marine-sciences-ml-workshop.png
