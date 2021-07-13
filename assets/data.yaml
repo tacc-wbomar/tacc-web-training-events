@@ -1,22 +1,4 @@
 entries:
-  - title: "High Performance Computing on Frontera"
-    url: 
-        webpage: https://learn.tacc.utexas.edu/enrol/index.php?id=106
-        image: /documents/1084364/1970021/frontera-welcome.png
-        external: true
-    extra: 
-    date: May 27th, June 3rd
-    time: 10am - 3:30pm CDT
-    location: 
-  - title: "ISC High Performance 2021 Digital"
-    url: 
-        webpage: https://www.isc-hpc.com/
-        image: /documents/1084364/1141713/homepageNews0.png
-        external: true
-    extra: 
-    date: June 24th – July 2nd
-    time: 
-    location: 
   - title: "<abbr title=\"Practice & Experience in Advanced Research Computing 2021 (Conference)\">PEARC21</abbr> Virtual Conference"
     url: 
         webpage: https://pearc.acm.org/pearc21/
@@ -35,6 +17,33 @@ entries:
     date: July 26th - 30th
     time: 10am - 5pm CDT
     location: 
+  - title: "TACC Summer Institute: Computational Research Techniques: Parallel Programing"
+    url: 
+        webpage: /education/institutes/applied-parallel-programming
+        image: /documents/1084364/1825988/applied-parallel-programming.jpg
+        external: false
+    extra: 
+    date: July 29th, August 12th, August 19th
+    time: 
+    location: 
+  - title: "TACC Summer Institute: Machine Learning"
+    url: 
+        webpage: /education/institutes/machine-learning
+        image: /documents/1084364/1825988/machine-learning-with-intel.jpg
+        external: false
+    extra: 
+    date: August 2nd – 6th
+    time: 
+    location:  
+  - title: "TACC Summer Institute: Marine Sciences Machine Learning Workshop"
+    url: 
+        webpage: /education/institutes/marine-sciences-ml-workshop
+        image: /documents/1084364/1970021/marine-sciences-ml-workshop.png
+        external: false
+    extra: 
+    date: August 9th – 20th
+    time: 
+    location:  
   - title: "<abbr title=\"Supercomputing 2021 (Conference)\">SC2021</abbr>"
     url: 
         webpage: https://sc21.supercomputing.org/
